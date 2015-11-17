@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CodeforHawaii/organization.png?label=ready&title=Ready)](https://waffle.io/CodeforHawaii/organization)
 Code for Hawaii Organization Task Tracker
 =========================================
 
